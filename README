@@ -1,0 +1,10 @@
+The wiki http://wiki.github.com/rogerdpack/java_code_tutorials contains an assortment of useful java examples--please add your own!
+
+How:
+name the wiki page after the class in question
+
+add a h1. title before each example
+put code in <pre><code> or in @code here@
+
+Much thanks.
+-r
